@@ -1,0 +1,12 @@
+# Parallel Boids Simulation with CUDA
+![Slide 1](0.%20Slides/1.jpg)
+![Slide 2](0.%20Slides/2.jpg)
+![Slide 3](0.%20Slides/3.jpg)
+![Slide 4](0.%20Slides/4.jpg)
+![Slide 5](0.%20Slides/5.jpg)
+![Slide 6](0.%20Slides/6.jpg)
+![Slide 7](0.%20Slides/7.jpg)
+![Slide 7](0.%20Slides/8.jpg)
+![Slide 9](0.%20Slides/9.jpg)
+![Slide 10](0.%20Slides/10.jpg)
+![Slide 11](0.%20Slides/11.jpg)
