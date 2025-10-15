@@ -162,7 +162,7 @@ int main(int argc, char **argv)
 {
     int boids = 2048; // default
     int steps = 100;
-    int TPB = 256;
+    int TPB = 1024;
 
     if (argc > 1)
         boids = atoi(argv[1]);
@@ -250,4 +250,5 @@ int main(int argc, char **argv)
     free(h_pos);
     free(h_vel);
     return 0;
+
 }
